@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Made a string variable and named it Dane  
+// If the variable's name was Mary 
+// It will spit out "Hi, Mary"
+// If the name is not Mary it will spit out "How do you do"
 
 //CODE
 /*
@@ -42,13 +42,13 @@ if (name === 'Mary') {
 }
 
 
-*/
+*/ "How do you do"
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Made a variable called secret 
+// Made a varibale called 123 
+// If the code equals 123 it will be super 
+// If the and muiltpled by 2 and if it is less than 250 it will be duper 
 
 //CODE
 /*
@@ -67,13 +67,14 @@ if (code > 250) {
 
 console.log(secret)
 
-*/
+*/ Super Duper Secret 
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// Made variables for isStudent, age, and zip 
+// If a student is true and has a zip less than 8000 "you're on the west coast"
+// if false and age is greater than 30 than "What are hobbies"
+// if true than "welcome to prime" 
+If false than "how about the weather"
 
 //CODE
 /*
@@ -91,7 +92,7 @@ if (isStudent === true && zip > 80000 ) {
   console.log('How about the weather?')
 }
 
-*/
+*/ Welcome to Prime 
 
 
 
@@ -134,6 +135,8 @@ let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
+FIX - variable colorOne = blue, colorTwo = red 
+
 if (mix === true) {
   colorOne = 'purple';
 }
@@ -146,6 +149,8 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
+
+Fix if (temp > 39 == time >=4)
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
@@ -165,5 +170,8 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
-*/
+*/ Fix- console.log('enter');
+        else {
+      console('no entry')
+        }
 
