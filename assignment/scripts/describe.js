@@ -47,8 +47,8 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 // Made a variable called secret 
 // Made a varibale called 123 
-// If the code equals 123 it will be super 
-// If the and muiltpled by 2 and if it is less than 250 it will be duper 
+// If the code equals 123 the secret will be super 
+// If the and muiltpled by 2 and if the secret is greater than 250 it will be duper 
 
 //CODE
 /*
@@ -67,12 +67,12 @@ if (code > 250) {
 
 console.log(secret)
 
-*/ Super Duper Secret 
+*/ Super Secret 
 
 // 3. WRITE YOUR DESCRIPTION HERE
 // Made variables for isStudent, age, and zip 
-// If a student is true and has a zip less than 8000 "you're on the west coast"
-// if false and age is greater than 30 than "What are hobbies"
+// If a student is true and has a zip greater than 8000 "you're on the west coast"
+// if false and age is less than 30 than "What are hobbies"
 // if true than "welcome to prime" 
 If false than "how about the weather"
 
@@ -92,7 +92,7 @@ if (isStudent === true && zip > 80000 ) {
   console.log('How about the weather?')
 }
 
-*/ Welcome to Prime 
+*/ You're a student from the west coast 
 
 
 
@@ -150,7 +150,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
-Fix if (temp > 39 == time >=4)
+Fix if (temp > 39 || time >=4)
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
